@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327066528636",
+    "project_id": "citasflutter-dda4e",
+    "storage_bucket": "citasflutter-dda4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327066528636:android:7e705d9b705534328ad2f9",
+        "android_client_info": {
+          "package_name": "com.example.citas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327066528636-buipcfq0fus7kfg90b4rr2hlu5smn0m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citas",
+            "certificate_hash": "10e14398ba13f152be9b5146ce4b76e48e25e2c8"
+          }
+        },
+        {
+          "client_id": "327066528636-k3j1691o4pq7hcalf5303v0nbk8k258c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIevd23CEo2gIsKmxAvvwwczqPWF5qMlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327066528636-k3j1691o4pq7hcalf5303v0nbk8k258c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
